@@ -1,0 +1,8 @@
+.vscode/
+resources/
+node_modules/
+debug.log
+npm-debug.log
+LICENSE.txt
+NOTICE.txt
+README.txt

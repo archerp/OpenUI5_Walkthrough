@@ -1,0 +1,14 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "Node local web server for OpenUI5 development. OpenUI5 file types specified in ./lite_server/bs-config.json",
+  "scripts": {
+    "dev": "lite-server --config=.lite_server/bs-config.json",
+    "start": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
